@@ -6,7 +6,7 @@ import List from '../components/list/List';
 const Home = () => {
     return (
         <div className="home">
-            <Featured type="move" />
+            <Featured type="movie" />
             <Navbar />
             <List/>
             <List/>
